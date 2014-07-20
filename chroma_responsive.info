@@ -1,5 +1,5 @@
-name = chroma_responsive
-description = Please provide a description for your theme.
+name = Chroma Responsive
+description = Responsive Theme for Chroma Technology Corp
 base theme = omega
 screenshot = screenshot.png
 engine = phptemplate
